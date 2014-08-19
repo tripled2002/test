@@ -1,4 +1,4 @@
-test
+こんにちは
 ====
 
-just a start up test
+hahahahahahaha, you found nothing here!
